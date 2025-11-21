@@ -1,3 +1,1 @@
-# Frontend-Mentor-Projects
-## Projects Complete
-- QR code component
+QR code component from Front-end Mentor
